@@ -88,7 +88,7 @@ hr{
     border-radius: 20px;
 }
 /* media quaries */
-@media only screen and (max-width:500px) {
+@media only screen and (max-width:687px) {
     .container{
         width: 80%;
         height: auto;
@@ -103,7 +103,7 @@ hr{
         grid-row-gap: 10px;
     }
 }
-@media only screen and (min-width:501px) and(max-width:1100px) {
+@media only screen and (min-width:688px) and (max-width:992px) {
     .container{
         width: 80%;
         height: auto;
